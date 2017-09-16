@@ -1,0 +1,3 @@
+[submodule "Assets/statetracker"]
+	path = Assets/statetracker
+	url = git@github.com:igorrafael/statetracker.git
